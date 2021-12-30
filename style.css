@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+}
+nav {
+  position: relative;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+}
+.doc {
+  width: 350px;
+  margin-left: 50%;
+  height: 100px;
+}
+ul {
+  list-style-type: none;
+  margin-right: 10%;
+  display: flex;
+}
+li {
+  margin: 10px;
+  margin-top: 40px;
+}
+.walid {
+  margin-left: 50%;
+}
+h2 {
+  color: #00b39b;
+  text-align: center;
+}
+p {
+  font-family: Roboto, Arial, sans-serif;
+}
+.nomo {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 22%;
+  margin-right: 22%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.tira {
+  width: 20px;
+  height: 20px;
+}
+
+.col1 {
+  background-color: #00ccb1;
+  padding: 50px 40px 50px 40px;
+
+  border-radius: 10px;
+  font-family: Work Sans, Arial, sans-serif;
+  margin-right: 20px;
+  margin-left: 270px;
+}
+.col2 {
+  background-color: #3d83df;
+  padding: 50px 40px 50px 40px;
+  font-family: Work Sans, Arial, sans-serif;
+  border-radius: 10px;
+
+  margin-right: 20px;
+}
+.col3 {
+  padding: 50px 40px 50px 40px;
+  font-family: Work Sans, Arial, sans-serif;
+  border-radius: 10px;
+  background-color: #1b2734;
+  margin-right: 270px;
+}
+a {
+  text-decoration: none;
+}
+.tableau {
+  display: flex;
+  height: 200px;
+
+  justify-content: space-around;
+}
+.style {
+  display: flex;
+  justify-content: space-between;
+}
+div > h2 {
+  margin-top: 35px;
+  margin-left: 19%;
+}
+.oppo {
+  height: 100px;
+  width: 200px;
+}
+.oppo1 {
+  height: 70px;
+  width: 350px;
+}
